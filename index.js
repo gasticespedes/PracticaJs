@@ -1,5 +1,5 @@
 
     const NombreUsuario = prompt(`Ingrese su nombre: `);
-
-    alert(`Hola te saludo ${NombreUsuario}`);
+    const ApellidoUsuario = prompt(`Ingrese su apellido: `);
+    alert(`Hola te saludo ${NombreUsuario} ${ApellidoUsuario}`);
     
